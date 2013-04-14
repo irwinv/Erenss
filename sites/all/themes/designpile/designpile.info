@@ -1,0 +1,31 @@
+; $Id$
+name = Designpile
+description = Convert from <a href="http://wordpress.site5.net/designpile/">designpile</a> Wordpress theme
+version = VERSION
+core = 6.x
+screenshot = images/screenshot.png
+engine = phptemplate
+stylesheets[all][] = style.css
+
+regions[right] = Right Page
+regions[feature_post] = Featured Post
+regions[block_footer] = Block Footer 
+regions[content_top] = Content top
+regions[content_bottom] = Content bottom
+
+features[] = comment_user_picture
+features[] = favicon
+features[] = logo
+features[] = mission
+features[] = name
+features[] = node_user_picture
+features[] = primary_links
+features[] = search
+features[] = secondary_links
+features[] = slogan
+; Information added by drupal.org packaging script on 2010-05-02
+version = "6.x-1.2"
+core = "6.x"
+project = "designpile"
+datestamp = "1272770105"
+

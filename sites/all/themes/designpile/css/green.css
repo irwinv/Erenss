@@ -1,0 +1,80 @@
+a {
+  color: #99CC30;
+}
+
+h1 {
+	color:#99CC30;
+}
+
+h1 a {
+	border-bottom:1px dotted #99CC30;
+}
+
+.page-taxonomy h1.title, .searchQuery {
+	background:url(../images/green/bullet_star_featured.png) 0 50% no-repeat;
+}
+
+#featuredPost .label {
+	background:url(../images/green/bullet_star_featured.png) 0 50% no-repeat;
+}
+
+.homePost h2 a:hover {
+	color:#99CC30;
+}
+
+.homePost .date span {
+	color:#FF6600;
+}
+
+.blogPost .date span {
+	color:#FF6600;
+}
+
+a.more-link {
+	background:url(../images/green/but_readmore.png) 0 0 no-repeat;
+}
+
+#colRight .block h2 {
+	background:url(../images/green/bk_h2_right.png) 0 0 no-repeat;
+	color:#EDF4D9;
+}
+
+#colRight .block ul li {
+	background:url(../images/green/bullet_star.png) 0 11px no-repeat;
+}
+
+#colRight .block ul li a {
+	color:#888;
+}
+
+#colRight .block ul li a:hover {
+	color:#d1d1d1;
+}
+
+#footerInner h2 {
+	background:url(../images/green/bullet_h2_footer.png) 0 50% no-repeat;
+}
+
+#footerInner .block ul li {
+	background:url(../images/green/bullet_arrow.png) 0 11px no-repeat;
+}
+
+#footerInner .block ul li a {
+	color:#797979;
+}
+
+#footerInner .block ul li a:hover {
+	color:#99CC30;
+}
+
+#searchBox .form-submit {
+	background:url(../images/green/but_search.png) 0 90% no-repeat;
+}
+
+#comments input#edit-submit{
+	background:url(../images/green/but_post_comment.png) 0 0 no-repeat;
+}
+
+#contact-mail-page input#edit-submit{
+	background:url(../images/green/but_send.png) 0 0 no-repeat;
+}

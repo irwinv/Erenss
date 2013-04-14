@@ -1,0 +1,30 @@
+; $Id: arclitetheme.info,v 1.1 2009/12/20 06:22:45 blagoj Exp $
+
+name = arclitetheme
+description = Free drupal theme by digitalnature.ro and http://topdrupalthemes.net
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[all][] = options/side-default.css
+stylesheets[all][] = options/content-default.css
+stylesheets[all][] = options/header-default.css
+
+regions[right] = Right sidebar
+regions[footer] = Footer
+regions[content] = Content
+
+features[] = name
+features[] = footer
+features[] = primary_links
+features[] = comment_user_picture
+features[] = slogan
+features[] = mission
+features[] = search
+
+
+; Information added by drupal.org packaging script on 2009-12-20
+version = "6.x-1.0"
+core = "6.x"
+project = "arclitetheme"
+datestamp = "1261290303"
+
